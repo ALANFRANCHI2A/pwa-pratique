@@ -1,3 +1,3 @@
 # pwa-pratique
 Cours PWA
-# Mise à jour
+# Mise à jours
